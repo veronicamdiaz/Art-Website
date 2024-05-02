@@ -1,0 +1,35 @@
+.button-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+  .button-top-left {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+  }
+  .button-top-right {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+  }
+  .button-bottom-left {
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+  }
+  .button-bottom-right {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+  }
+  .image-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  
