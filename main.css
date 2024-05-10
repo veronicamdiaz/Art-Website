@@ -41,7 +41,8 @@
 header {
   font-family:'Reddit Mono', sans-serif; 
   font-weight: normal;
-  margin-left: -992px;
+  text-align: justify;
+ /* margin-left: -992px; */
 }
 
 h1 {
@@ -127,7 +128,7 @@ h3 {
 .container {
   width: 100%;
   max-width: 800px;
-  margin: 0 auto;
+  margin: 12.5px; 
 }
 
 nav {
